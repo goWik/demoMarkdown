@@ -1,10 +1,10 @@
-# Markdown demo (det gär är en rubrik i HTML)
-demonstration av  Markdown
+# Markdown demo (det här är en rubrik i HTML)
+Demonstration av  Markdown
 
 Med Markdown kan vi skapa HTML kod med mindre text.
 
 Om vi vill göra något förstarkt:
-**Gosia** heter jag. Jag är _student_ på Nackademin. 
+**Mitt Namn** heter jag. Jag är _student_ på Nackademin. 
 
 ##Rubrik på Nästa nivå (h2).
 1.[Markdown hemsida](https://daringfireball.net/projects/markdown/basics).
@@ -16,7 +16,7 @@ Om vi vill göra något förstarkt:
 Allt som finns i HTML finns inte i Markdown...
 men allt som finns i Markdown har motsvarhet till HTML.
 
-<hr> det går alltså bra att blanda HTML med "Markdown".
+<hr> det går alltså bra att blanda HTML med Markdown.
 ex: README-filer på GitHub...
 * **MNS** (har delar)
 * **Slack** (har delar)
